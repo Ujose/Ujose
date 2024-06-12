@@ -1,5 +1,5 @@
 - 👋 Olá, Eu Sou José!
-- 🌱 Análise e desenvolvimento de sistemas 2/4
+- 🌱 Análise e desenvolvimento de sistemas
 - 💞️ Apaixonado Por Tech!
 - 🔭  Tenho interesse no BACK-END.
 - 📫 How to reach me ...
